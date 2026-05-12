@@ -119,7 +119,7 @@ Release 构建启用 R8 与资源收缩，用于减少包体并降低二次打�
 
 ## 参考来源
 
-以下项目、资料和网站仅作为文件层、代码层与说明层参考来源：
+参考来源：
 
 - Journey: <https://x.com/m1zukiqaqaqaq>
 - HRT-Recorder-online: <https://github.com/LaoZhong-Mihari/HRT-Recorder-online>
