@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 版作者：南盺 -->
+<resources>
+    <string name="app_name">HRT Recorder</string>
+    <string name="export_failed_message">Export failed. Please choose a save location again.</string>
+    <string name="import_failed_message">Import failed. Please check the JSON file.</string>
+    <string name="save_image_failed_message">Image save failed. Please choose a save location again.</string>
+    <string name="share_failed_message">Share image generation failed. Please try again.</string>
+    <string name="share_chooser_title">Share to X / Twitter</string>
+</resources>

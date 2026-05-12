@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 版作者：南盺 -->
+<resources>
+    <color name="launcher_bg_start">#FFD7EA</color>
+    <color name="launcher_bg_end">#D7EEFF</color>
+    <color name="surface_fallback">#FFF9FD</color>
+    <color name="accent_pink">#DFA1BF</color>
+</resources>

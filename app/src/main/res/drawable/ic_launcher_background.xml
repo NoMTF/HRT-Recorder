@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 版作者：南盺 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <gradient
+        android:angle="315"
+        android:centerColor="#FFFFFF"
+        android:endColor="@color/launcher_bg_end"
+        android:startColor="@color/launcher_bg_start" />
+</shape>
