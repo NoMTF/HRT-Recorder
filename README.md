@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./artwork/feature-graphic-1024x500.png" alt="HRT Recorder" width="860" />
+  <img src="./docs/assets/feature-graphic-1024x500.png" alt="HRT Recorder" width="860" />
 </p>
 
 <h1 align="center">HRT Recorder</h1>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/NoMTF/HRT-Recorder/releases/latest">
-    <img alt="下载最新版" src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-最新版%20APK-62C8EE?style=for-the-badge&labelColor=F49CC8&color=62C8EE" />
+    <img alt="下载最新版 APK" src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E6%9C%80%E6%96%B0%E7%89%88%20APK-62C8EE?style=for-the-badge&labelColor=F49CC8&color=62C8EE" />
   </a>
   <a href="https://github.com/NoMTF/HRT-Recorder/releases">
     <img alt="Release" src="https://img.shields.io/badge/Release-%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC-F49CC8?style=for-the-badge&labelColor=62C8EE&color=F49CC8" />
@@ -68,7 +68,7 @@ HRT Recorder 想解决的事情很直接：把每天分散的记录、计划、�
 ## 截图
 
 <p align="center">
-  <img src="./release/store-screenshots/2.1.11/contact-sheet.jpg" alt="HRT Recorder screenshots" width="860" />
+  <img src="./docs/assets/contact-sheet.jpg" alt="HRT Recorder screenshots" width="860" />
 </p>
 
 ## 隐私边界
