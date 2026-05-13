@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./docs/assets/feature-graphic-1024x500.png" alt="HRT Recorder" width="860" />
-</p>
-
 <h1 align="center">HRT Recorder</h1>
 
 <p align="center">
